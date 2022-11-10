@@ -6,7 +6,7 @@ Todo nuestro proceso de analisis y limpieza va estar altamente documentado en nu
 Volar siempre ha sido algo fascinante para nosotros los humanos, despues que logramos estár en las nubes empezamos a preocuparnos por otra cosa, ¿porque nos caemos en nuestras naves de ultimo avance y gran ingeniería?, por ese motivo es que vamos análizar los motivos de las catastrofeas aereas. 
 
 # Catastrofes Aereas
-<img src = 'https://peritojudicial.com/content/images/2021/02/Accidente-Aereo.jpg' height = 400>
+<img src = 'https://peritojudicial.com/content/images/2021/02/Accidente-Aereo.jpg' height = 500>
 
 ¿Por qué chocan los aviones?
 Los fallos del piloto y los errores mecánicos suponen el 72% de los casos, seguido de incidencias climatológicas, sabotajes y otros errores humanos.
