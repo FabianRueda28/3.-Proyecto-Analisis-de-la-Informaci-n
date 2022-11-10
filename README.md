@@ -13,6 +13,9 @@ Los fallos del piloto y los errores mecánicos suponen el 72% de los casos, segu
 
 Según las estadísticas de accidentes mortales registrados por la Unión Europea desde 2008, viajar en moto es hasta 500 veces más peligroso que viajar en avión. Hoy en día el avión lidera el ranking de los medios de transporte colectivo más seguros, pero también es cierto que en caso de accidente aéreo la probabilidad de supervivencia se reduce drásticamente con respecto al resto. Los expertos aseguran que las causas de accidentes aéreos se reducen básicamente a cinco, siendo los errores humanos y mecánicos dos de las más comunes con un 72% del total de los casos. 
 
+# Accidentes aéreos
+Aeroflot ha registrado un total de 731 accidentes, con un total de 8.231 víctimas mortales, siendo, entonces, la aerolínea con más muertes y accidentes de la historia de la aviación, teniendo aproximadamente cinco veces más accidentes que cualquier otra compañía aérea. Desde 1994 (vuelo 593) hasta 2019 no tuvo accidentes, hasta que el 5 de mayo de 2019, 41 personas fallecieron cuando el vuelo 1492 de Aeroflot se incendió. En estos datos no se incluye los accidentes de las filiales (como Aeroflot-Nord y el Vuelo 821 de Aeroflot perteneciente a esta).
+
 # Aerolinea Aeroflot 
 El análisis se va llevar a cabo sobre esta aerolinea en especifico por la tasa de accidentes tan alta que tiene con respecto a las otras, a que factores se deben, ¿talvez por ser una de las aerolineas mas antiguas del mundo?.
 
@@ -36,9 +39,6 @@ En 1992, tras la caída de la Unión Soviética, Aeroflot se dividió en más de
 Hubo planes para reemplazar el viejo logotipo de la hoz y el martillo de la era soviética, al que algunas personas en occidente veían como un recordatorio del comunismo soviético. Sin embargo, como durante más de 70 años fue el símbolo más reconocible de la empresa, se mantuvo el logotipo.
 
 En 2011, Aeroflot adquirió los activos de aviación de la Corporación Estatal de "Rostekhnologii", que incluyen cinco aerolíneas. También, de acuerdo con sus planes, la aerolínea planea ocupar el 27% del mercado del transporte en Rusia en el 2011 y en el 2025, el 45,4% del mercado.
-
-# Accidentes aéreos
-Aeroflot ha registrado un total de 731 accidentes, con un total de 8.231 víctimas mortales, siendo, entonces, la aerolínea con más muertes y accidentes de la historia de la aviación, teniendo aproximadamente cinco veces más accidentes que cualquier otra compañía aérea. Desde 1994 (vuelo 593) hasta 2019 no tuvo accidentes, hasta que el 5 de mayo de 2019, 41 personas fallecieron cuando el vuelo 1492 de Aeroflot se incendió. En estos datos no se incluye los accidentes de las filiales (como Aeroflot-Nord y el Vuelo 821 de Aeroflot perteneciente a esta).
 
 # Python
 Lo primero es abrir nuestros archivos CSV dentro de los Notebooks "Accidentes_Aereos.ipynb" y "Aeroflot.ipynb", despues allí vamos a realizar las transformaciones de nuestros datos para conectarlos dentro de MySQL Workbench. 
