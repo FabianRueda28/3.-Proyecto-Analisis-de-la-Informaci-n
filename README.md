@@ -3,25 +3,18 @@ En este proyecto vamos a realizar un analisis exploratotio de los datos que nos 
 Todo nuestro proceso de analisis y limpieza va estar altamente documentado en nuestro archivo de Jupyter Notebook.
 
 ¿Porque? 
-Volar siempre ha sido algo fascinante para nosotros los humanos, despues que logramos estár en las nubes empezamos a preocuparnos ahor apor otra cosa, porque nos caemos en nuestras naves de ultimo avance y gran ingeniería, por ese motivo, es que vamos a tratar de explicar los motivos de las catastrofeas aereas. 
+Volar siempre ha sido algo fascinante para nosotros los humanos, despues que logramos estár en las nubes empezamos a preocuparnos por otra cosa, ¿porque nos caemos en nuestras naves de ultimo avance y gran ingeniería?, por ese motivo es que vamos análizar los motivos de las catastrofeas aereas. 
 
 # Catastrofes Aereas
-<img src = 'https://peritojudicial.com/content/images/2021/02/Accidente-Aereo.jpg' height = 200>
+<img src = 'https://peritojudicial.com/content/images/2021/02/Accidente-Aereo.jpg' height = 400>
 
 ¿Por qué chocan los aviones?
-Los fallos del piloto y los errores mecánicos suponen el 72% de los casos, seguido de incidencias climatológicas, sabotajes y otros errores humanos,
+Los fallos del piloto y los errores mecánicos suponen el 72% de los casos, seguido de incidencias climatológicas, sabotajes y otros errores humanos.
 
 Según las estadísticas de accidentes mortales registrados por la Unión Europea desde 2008, viajar en moto es hasta 500 veces más peligroso que viajar en avión. Hoy en día el avión lidera el ranking de los medios de transporte colectivo más seguros, pero también es cierto que en caso de accidente aéreo la probabilidad de supervivencia se reduce drásticamente con respecto al resto. Los expertos aseguran que las causas de accidentes aéreos se reducen básicamente a cinco, siendo los errores humanos y mecánicos dos de las más comunes con un 72% del total de los casos. 
 
-# Fallo mecánico
-Según los expertos, es la segunda causa más común de accidentes aéreos con un 22% de los casos. En estos casos, la pericia del piloto y su experiencia en vuelo es fundamental para intentar controlar la situación y poder realizar un aterrizaje de emergencia. Para ello se realiza un mantenimiento exhaustivo del avión con una revisión obligatoria antes de cada vuelo, con el propósito de evitar cualquier tipo de error mecánico en pleno vuelo.
-
-Sin embargo, algunos de estos errores mecánicos se deben a defectos de diseño como el ocurrido en el vuelo de Turkish Airlines a Francia en 1974, que se estrelló por un defecto en el picaporte de la puerta de carga. En otros casos, los defectos del material son los responsables de la aparición de grietas en las alas como el accidente aéreo del vuelo West African Airways a Nigeria en 1955.
-
-En otras ocasiones, la mala suerte hace que el choque con aves en el aire sean las responsables de al menos siete accidentes de avión hasta la fecha, como el caso del cisne que arrancó el estabilizador horizontal izquierdo del vuelo United Airlines en 1962.
-
 # Aerolinea Aeroflot 
-Decidí realizar un analisis sobre esta aerolinea en especifico por la tasa de accidentes tan alta que tiene con respecto a las otras, a que factores se deben, talvez por ser una de las aerolineas mas antiguas del mundo?.
+El análisis se va llevar a cabo sobre esta aerolinea en especifico por la tasa de accidentes tan alta que tiene con respecto a las otras, a que factores se deben, ¿talvez por ser una de las aerolineas mas antiguas del mundo?.
 
 Aeroflot es una de las aerolíneas más antiguas del mundo, fue fundada en 1923 como una empresa de propiedad totalmente estatal. En su época también fue la compañía aérea más importante de la Unión Soviética y la mayor del mundo.9​10​ Tras la disolución de la URSS, la compañía pasó de ser una empresa estatal en una empresa semi-privada, con una participación mayoritaria (51%) del Gobierno ruso. A partir de septiembre de 2013, el Grupo Aeroflot tenía 30 328 empleados.
 
