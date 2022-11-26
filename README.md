@@ -19,7 +19,7 @@ Aeroflot ha registrado un total de 731 accidentes, con un total de 8.231 víctim
 # Aerolinea Aeroflot 
 El análisis se va llevar a cabo sobre esta aerolinea en especifico por la tasa de accidentes tan alta que tiene con respecto a las otras, a que factores se deben, ¿talvez por ser una de las aerolineas mas antiguas del mundo?.
 
-<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/A350-Aeroflot.jpg' height = 300>
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/A350-Aeroflot.jpg' height = 500>
 
 Aeroflot es una de las aerolíneas más antiguas del mundo, fue fundada en 1923 como una empresa de propiedad totalmente estatal. En su época también fue la compañía aérea más importante de la Unión Soviética y la mayor del mundo.9​10​ Tras la disolución de la URSS, la compañía pasó de ser una empresa estatal en una empresa semi-privada, con una participación mayoritaria (51%) del Gobierno ruso. A partir de septiembre de 2013, el Grupo Aeroflot tenía 30 328 empleados.
 
@@ -45,20 +45,20 @@ En 2011, Aeroflot adquirió los activos de aviación de la Corporación Estatal 
 # Python
 Lo primero es abrir nuestros archivos CSV dentro de los Notebooks "Accidentes_Aereos.ipynb" y "Aeroflot.ipynb", despues allí vamos a realizar las transformaciones de nuestros datos para conectarlos dentro de MySQL Workbench. 
 
-<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/1024_imagen.jpg' height = 300, >
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/1024_imagen.jpg' height = 500, >
 
 
 # Mysql
 Ya estando nuestros datos transformados y limpiados en Python, procederemos a realizar la carga dentro de nuetra Base de Datos. 
 En el DataBase llamado "Analytics.sql" vamos a cargar nuestras tablas para posteriormente conectarlo con Power Bi. 
 
-<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/mysql.png' height = 300, >
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/mysql.png' height = 500, >
 
 
 # Power Bi 
 Ya estando conectado Power Bi con nuestra base de datos lo que haremos será realizar los análisis requeridos para exponer al publico estadisticas, graficos, porcentajes, etc.. dentro de nuestro Dashboard. 
 
-<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/Szybki-start-z-Power-BI10.png' height = 300, >
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/Szybki-start-z-Power-BI10.png' height = 500, >
 
 
 # Tips
@@ -78,5 +78,5 @@ Importante revisar cada archivo para entender el proceso y los pasos que llevo e
 
 # Dashboard Final del Proyecto
 
-<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/Captura%20de%20pantalla_20221110_073346.png' height = 300, >
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/Captura%20de%20pantalla_20221110_073346.png' height = 500, >
 
