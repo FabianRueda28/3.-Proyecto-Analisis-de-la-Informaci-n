@@ -45,20 +45,20 @@ En 2011, Aeroflot adquirió los activos de aviación de la Corporación Estatal 
 # Python
 Lo primero es abrir nuestros archivos CSV dentro de los Notebooks "Accidentes_Aereos.ipynb" y "Aeroflot.ipynb", despues allí vamos a realizar las transformaciones de nuestros datos para conectarlos dentro de MySQL Workbench. 
 
-<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/1024_imagen.jpg' height = 500, >
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/1024_imagen.jpg' height = 350, >
 
 
 # Mysql
 Ya estando nuestros datos transformados y limpiados en Python, procederemos a realizar la carga dentro de nuetra Base de Datos. 
 En el DataBase llamado "Analytics.sql" vamos a cargar nuestras tablas para posteriormente conectarlo con Power Bi. 
 
-<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/mysql.png' height = 500, >
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/mysql.png' height = 350, >
 
 
 # Power Bi 
 Ya estando conectado Power Bi con nuestra base de datos lo que haremos será realizar los análisis requeridos para exponer al publico estadisticas, graficos, porcentajes, etc.. dentro de nuestro Dashboard. 
 
-<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/Szybki-start-z-Power-BI10.png' height = 500, >
+<img src = 'https://github.com/FabianRueda28/Proyecto-No.3---Data-Analytics/blob/master/src/Szybki-start-z-Power-BI10.png' height = 350, >
 
 
 # Tips
